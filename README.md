@@ -1,7 +1,9 @@
 ## Current development going on here :arrow_right: [Development Branch](https://github.com/tzapu/WiFiManager/tree/development)
 
-# WiFiManager
+# WiFiManager（中文分支）
 ESP8266 WiFi Connection manager with fallback web configuration portal
+
+此分支为中文用户定制的分支。此分支主要功能是在联网中，将网页界面信息修改为中文信息。
 
 [![Build Status](https://travis-ci.org/tzapu/WiFiManager.svg?branch=master)](https://travis-ci.org/tzapu/WiFiManager)
 
@@ -67,10 +69,10 @@ You can either install through the Arduino Library Manager or checkout the lates
 #### Install through Library Manager
 __Currently version 0.8+ works with release 2.0.0 or newer of the [ESP8266 core for Arduino](https://github.com/esp8266/Arduino)__
  - in Arduino IDE got to Sketch/Include Library/Manage Libraries
-  ![Manage Libraries](http://i.imgur.com/9BkEBkR.png)
+    ![Manage Libraries](http://i.imgur.com/9BkEBkR.png)
 
  - search for WiFiManager
-  ![WiFiManager package](http://i.imgur.com/18yIai8.png)
+    ![WiFiManager package](http://i.imgur.com/18yIai8.png)
 
  - click Install and start [using it](#using)
 
@@ -202,7 +204,7 @@ Usage scenario would be:
 - once WiFiManager returns control to your application, read and save the new values using the `WiFiManagerParameter` object.
  ```cpp
  mqtt_server = custom_mqtt_server.getValue();
- ```  
+ ```
 This feature is a lot more involved than all the others, so here are some examples to fully show how it is done.
 You should also take a look at adding custom HTML to your form.
 
