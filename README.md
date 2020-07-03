@@ -9,14 +9,13 @@ WiFiManager库  https://github.com/tzapu/WiFiManager  是一款用于ESP8266配�
 以下是本库修改为中文后的工作效果：
 
 ## 主目录页面
-[!主目录页面](http://github.com/taichi-maker/WiFiManager/blob/chinese/extras/wifimanager-cn-page1.jpg)
+![主目录页面](https://images.gitee.com/uploads/images/2020/0703/152719_ada15e46_5092786.jpeg "wifimanager-cn-page1.jpg")
 
 ## WiFi列表页面
-[!WIFI列表页面](http://github.com/taichi-maker/WiFiManager/blob/chinese/extras/wifimanager-cn-page2.jpg)
+![列表页面](https://images.gitee.com/uploads/images/2020/0703/152734_8a00a332_5092786.jpeg "wifimanager-cn-page2.jpg")
 
 ## WiFi设置页面
-[!WiFi设置页面](http://github.com/taichi-maker/WiFiManager/blob/chinese/extras/wifimanager-cn-page3.jpg)
+![设置页面](https://images.gitee.com/uploads/images/2020/0703/152749_fe92dc75_5092786.jpeg "wifimanager-cn-page3.jpg")
 
 ## WiFi设置确认页面
-[!WiFi设置确认页面](http://github.com/taichi-maker/WiFiManager/blob/chinese/extras/wifimanager-cn-page4.jpg)
-
+![设置确认页面](https://images.gitee.com/uploads/images/2020/0703/152803_0c95f8de_5092786.jpeg "wifimanager-cn-page4.jpg")
